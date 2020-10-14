@@ -1,0 +1,25 @@
+body{
+    background-image: url(../imagenes/notepad-932864_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: 200%;
+    font-family: Gungsuh;
+
+}
+
+h1{
+
+    color: whitesmoke; 
+}
+
+
+.modal-content{
+
+    background-color: #494f54;
+    opacity: .95;
+
+}
+
+h5{
+    color: whitesmoke;
+}
+
